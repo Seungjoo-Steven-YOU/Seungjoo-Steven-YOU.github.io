@@ -30,7 +30,7 @@ Hi there! My name is Steven, and this is my portfolio containing all the work I 
 - *Note: Much of the edits that were made on this project were conducted through a private repository, and this is simply the final product. The HTML file is a self-contained jupyter notebook report*
 - Using an available real world startup big data set, my research proved the economic significance that factors such as network size and quality and number of milestones impact the success of a startup company, controlling for various fixed effects.
 - This project utilized GeoPandas to visualize the geographic trends in startups as well as using web scraping, text analysis tools, and machine learning such as random forest and regression trees to extract vital trends that can predict startup success.
-- Observations in dataset numbered in 56,5289; after cleaning, the results contained 22,700 observations.
+- Observations in dataset numbered in 565,289; after cleaning, the results contained 22,700 observations.
 - Further analysis with result in identification of 20 predictive variables and series of models offer to evaluate the success of startups, which raised accuracy level up to 67.6%, vs previous benchmark of 63.27%.
 
 ### [Automating my life away!](https://github.com/Seungjoo-Steven-YOU/automate_away) :dart:
@@ -49,4 +49,4 @@ This is a personal project that contains some of my attempts to automate my own 
 
 
 <br/>
-**`Feel free to contact me through email or LinkedIn!`**
+`Feel free to contact me through email or LinkedIn!`
