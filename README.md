@@ -33,7 +33,7 @@ Hi there! My name is Steven, and this is my portfolio containing all the work I 
 - Observations in dataset numbered in 565289; after cleaning, the results contained 22,700 observations.
 - Further analysis with result in identification of 20 predictive variables and series of models offer to evaluate the success of startups, which raised accuracy level up to 67.6%, vs previous benchmark of 63.27%.
 
-### Automating my life :dart:
+### [Automating my life away!](https://github.com/Seungjoo-Steven-YOU/automate_away) :dart:
 This is a personal project that contains some of my attempts to automate my own life. Whether that's a way to automate much of my job application process or finances, automating my life has become a huge focus of mine in the past few months. I will take a journaling approach, and although 
 
 
