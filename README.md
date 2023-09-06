@@ -1,5 +1,5 @@
-# Seungjoo-Steven-YOU.github.io
-*`Data analyst/research analyst`*
+# Seungjoo (Steven) You
+*`Data/Research analyst`*
 
 Hi there! My name is Steven, and this is my portfolio containing all the work I have done as an analytics specialist and researcher based in Toronto. All the code that you see on this page are written from the ground up by myself, which includes the preparation, planning, brainstorming, and reporting of all the data related work I have done. 
 <br /><br />
@@ -41,4 +41,12 @@ This is a personal project that contains some of my attempts to automate my own 
 <br />
 <br />
 
+## Contact me!
+|                                                                                                      |                                          |
+| ---------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+|<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />| seungjoo.you@gmail.com                       |
+|<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />| https://www.linkedin.com/in/steven-you/|
+
+
+<br/>
 **`Feel free to contact me through email or LinkedIn!`**
